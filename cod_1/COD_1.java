@@ -17,7 +17,7 @@ public class COD_1 {
         //Comentario 1 fsancheztemprano
         
        System.out.println("Prueba Contornos fsanchez");
-       System.out.println("Prueba Modificada por emendez");
+       System.out.println("Prueba Modificada por emendezduran");
     }
     
 }
