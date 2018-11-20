@@ -18,7 +18,11 @@ public class COD_1 {
         //Comentario 2 hposecarames
        System.out.println("Prueba Contornos fsanchez");
        System.out.println("Prueba Modificada por emendez");
+<<<<<<< HEAD
        //Comment rama master
+=======
+       //Coment Rama A
+>>>>>>> ramaA
     }
     
 }
