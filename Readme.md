@@ -1,9 +1,7 @@
 Hola soy el Readme
 
 Encabezados
-# El mas grande
-## El segundo mas grande
-###### El mas pequeño
+#####################SUPER COMENTARIO
 
 Formato de Texto:
 
