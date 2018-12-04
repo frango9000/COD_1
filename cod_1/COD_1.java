@@ -5,6 +5,8 @@
  */
 package cod_1;
 
+import javax.swing.JOptionPane;
+
 /**
  * @author fsancheztemprano
  */
@@ -20,6 +22,7 @@ public class COD_1 {
        System.out.println("Prueba Modificada por emendez");
        //Comment rama master
        //Coment Rama A
+       JOptionPane.showMessageDialog(null, "Hola Mundo");
     }
     
 }
